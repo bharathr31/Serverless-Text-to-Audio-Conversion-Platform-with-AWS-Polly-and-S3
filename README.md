@@ -158,7 +158,7 @@ This project demonstrates a fully serverless text-to-speech conversion platform 
 This project was developed and maintained by:
 
 - [R Bharath](https://github.com/bharathr31)
-- [E NIKHILESHWAR REDDY ](https://github.com/Nckil1710)
+- [E NIKHILESWAR REDDY ](https://github.com/Nckil1710)
 
 Both contributed equally to the development and implementation of the project.
 
