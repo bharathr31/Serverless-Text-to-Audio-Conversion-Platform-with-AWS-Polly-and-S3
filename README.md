@@ -116,7 +116,6 @@ Now we can see the created poilices:
 - Test the full workflow by uploading a text file (e.g., a book) through the UI.
 - Check if the text-to-speech conversion works, and the resulting MP3 file is stored in the S3 bucket.
  ![Screenshot 2024-11-19 124000](https://github.com/user-attachments/assets/a28b575a-5348-425b-a24f-ce4544b595ff)
-  ![Screenshot 2024-11-19 124000](https://github.com/user-attachments/assets/a28b575a-5348-425b-a24f-ce4544b595ff)
 ## Step 8: Custom Test for Lambda Function
 
 You can test the Lambda function to ensure it correctly converts text to an audio file. Here's how to create a custom test using base64-encoded input for the Lambda function:
