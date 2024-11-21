@@ -153,6 +153,14 @@ You can test the Lambda function to ensure it correctly converts text to an audi
 ## Conclusion
 
 This project demonstrates a fully serverless text-to-speech conversion platform using AWS services like Polly, Lambda, S3, and API Gateway. By following the steps above, you can easily set up and deploy a system that converts text files into audiobooks and stores them for download.
+## Contributors
+
+This project was developed and maintained by:
+
+- [R Bharath](https://github.com/bharathr31)
+- [E NIKHILESHWAR REDDY ](https://github.com/Nckil1710)
+
+Both contributed equally to the development and implementation of the project.
 
   
 
