@@ -83,7 +83,7 @@ Now we can see the created poilices:
 
 ### 1. Modify Lambda Code:
 - Open the Lambda function in the AWS Console.
-- Modify the code to include the **Invoke URL** for the API Gateway.
+- Modify the html code to include the **Invoke URL** for the API Gateway .
 - Ensure that your Lambda function is sending the request to the correct API endpoint for text-to-speech conversion.
   ![Screenshot 2024-11-19 121309](https://github.com/user-attachments/assets/0aa42c04-3813-4424-ad7d-ae66042b1461)
  ![Screenshot 2024-11-19 121254](https://github.com/user-attachments/assets/f102836b-c80f-4f4c-b1ec-ab1b0ffcadce)
