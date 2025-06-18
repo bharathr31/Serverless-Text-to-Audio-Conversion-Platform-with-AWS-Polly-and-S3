@@ -7,7 +7,6 @@ This project implements a cloud-based, serverless text-to-speech conversion syst
 Before starting, ensure that you have:
 - An active AWS account.
 - Basic knowledge of AWS services (S3, Lambda, API Gateway, IAM).
-- Node.js installed on your machine (for AWS Amplify setup).
 - Access to the AWS Management Console.
 
 ## Step 1: Set Up AWS S3 Bucket for Storing Audiobooks
